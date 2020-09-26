@@ -1,6 +1,10 @@
 # Active Directory - Workshop
 Recursos del Workshop de Active Directory
 
+# Feedback
+Me ayudarías mucho respondiendo este formulario para tener un Feedback del Workshop!
+https://forms.gle/2ih2KCrBfG1fFC5w5
+
 # Herramientas
 - ADExplorer - https://docs.microsoft.com/en-us/sysinternals/downloads/adexplorer
 - Crackmapexec - https://github.com/byt3bl33d3r/CrackMapExec
